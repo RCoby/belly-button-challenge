@@ -1,7 +1,9 @@
-# belly-button-challenge 
+# Belly-button Challenge 
 
 ## Aim
 ### Build an interactive dashboard to explore the Belly Button Biodiversity dataset which catalogues the microbes that colonise human navels.
+
+https://rcoby.github.io/belly-button-challenge/
 
 -----
 ## Method
@@ -30,12 +32,6 @@
   6. Update all the plots when a new sample is selected.
 
   7. Deploy the app to a free static page hosting service.
-
------
-## Advanced
-+ Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/Links to plot the weekly washing frequency of the individual.
-+ Modify the example gauge code to account for values ranging from 0 through 9.
-+ Update the chart whenever a new sample is selected.
 
 -----
 
